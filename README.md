@@ -162,8 +162,8 @@ git stash push -m "wip: X"     # stash with a name, easier to find later
 
 What I did, and what surprised me.
 
-| Date | What I practiced | Notes |
-| --- | --- | --- |
+| Date       | What I practiced                                    | Notes                                                               |
+| ---------- | --------------------------------------------------- | ------------------------------------------------------------------- |
 | 2026-10-16 | Created the repo, first commit, wrote a real README | Pushing the first time was the hard part — the rest was just typing |
 
 ---
